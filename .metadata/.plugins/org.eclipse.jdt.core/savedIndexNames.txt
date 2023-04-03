@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\BtkAkademiJava\fileProcesses\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2328456083.index
+1786295271.index
